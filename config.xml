@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<widget  xmlns="http://www.w3.org/ns/widgets"  xmlns:gap="http://phonegap.com/ns/1.0" xmlns:android = "http://schemas.android.com/apk/res/android" xmlns:cdv="http://cordova.apache.org/ns/1.0" id="SOrCE" versionCode ="3" version="1.0.3">
-  <name>SOrCE</name>
-  <description>SOrCE Moodle Mobile app</description>
+<widget  xmlns="http://www.w3.org/ns/widgets"  xmlns:gap="http://phonegap.com/ns/1.0" xmlns:android = "http://schemas.android.com/apk/res/android" xmlns:cdv="http://cordova.apache.org/ns/1.0" id="Infinite" versionCode ="3" version="1.0.3">
+  <name>Infinite</name>
+  <description>Infinite Moodle Mobile app</description>
   <author href="www.needs.com.lb" email="mobileapp@needs.com.lb">NEEDS</author>
   <gap:config-file platform="ios" parent="CFBundleShortVersionString">
       <string>1.0</string>
