@@ -539,7 +539,7 @@ angular.module('mm.core')
     "demo_sites": {},
     "gcmpn": "694767596569",
     "customurlscheme": "moodlemobile",
-    "siteurl": "http://my.sorce.online/",
+    "siteurl": "http://www.infiniteinfosolution.com/MO/",
     "skipssoconfirmation": "false",
     "forcedefaultlanguage": "false",
     "privacypolicy": "http://my.sorce.online/SOrCE-Privacy-Policy.htm"
